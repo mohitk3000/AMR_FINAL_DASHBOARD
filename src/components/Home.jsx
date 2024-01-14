@@ -40,7 +40,7 @@ const Home=()=>{
             </Col>
             <Col>
             <h1>MAP</h1>
-            <p>this region is for map</p>
+            <p>this region is for map 2</p>
             
             </Col>
            </Row>
