@@ -6,7 +6,7 @@ import RobotState from './RobotState';
 
 
     
-    
+
 
 const Home=()=>{
     const [counter, setCounter] = useState(219);
@@ -34,6 +34,7 @@ const Home=()=>{
             </Col>
             
            </Row>
+
            <Row>
             <Col>
             <Teleoperation/>
@@ -49,7 +50,7 @@ const Home=()=>{
             {" "}
             <Col>
           
-            
+            <RobotState/>
             </Col>
            
            
